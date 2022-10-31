@@ -59,6 +59,7 @@ footer a {
     color: #124559;
 }
 footer a:hover {
+    background-color: #124559;
     color: #F55536;
 }
 .home-title {
