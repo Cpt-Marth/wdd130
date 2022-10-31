@@ -22,7 +22,7 @@ main section {
 }
 #background {
     height: 725px;
-    background-color: #BDB4BF;
+    background-color: #F2C14E;
 }
 body {
     background-color: #BDB4BF;
@@ -32,11 +32,11 @@ header {
     background-color: #F55536;
 }
 nav a:hover {
-    background-color: #124559;
+    background-color: #305463;
     color: #F55536;
 }
 .book {
-    background-color: #F2C14E;
+    background-color: #BDB4BF;
     color: #124559;
     text-decoration: none;
 }
@@ -72,7 +72,7 @@ footer p {
     font-size: 1.2em;
 }
 footer p a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 .home-title {
     color: #124559;
