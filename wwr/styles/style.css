@@ -25,6 +25,7 @@ main section img {
 #background {
     height: 725px;
     background-color: #F2C14E;
+    padding: 35px;
 }
 body {
     background-color: #BDB4BF;
