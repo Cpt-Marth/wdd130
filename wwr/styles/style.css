@@ -27,6 +27,7 @@ main section {
 body {
     background-color: #BDB4BF;
     font-family: "Signika", sans-serif;
+    font-size: 22px;
 }
 header {
     background-color: #F55536;
@@ -39,11 +40,13 @@ nav a:hover {
     background-color: #BDB4BF;
     color: #124559;
     text-decoration: none;
+    font-size: 18px;
 }
 .join {
     background-color: #F2C14E;
     color: #124559;
     text-decoration: none;
+    font-size: 18px;
 }
 .book:hover {
     background-color: #124559;
@@ -55,6 +58,14 @@ nav a:hover {
 }
 .msg {
     background-color: #F2C14E;
+}
+.msg h2 {
+    color: #124559;
+    font-family: "Yatra One", Helvetica;
+}
+.msg p {
+    color: #124559;
+    font-size: .8em;
 }
 footer {
     background-color: #F55536;
@@ -77,6 +88,7 @@ footer p a:hover {
 .home-title {
     color: #124559;
     font-family: "Yatra One", Helvetica;
+    font-size: 2em;
 }
 h2 {
     color: #124559;
@@ -85,13 +97,6 @@ h2 {
 h4 {
     color: #124559;
     font-family: "Yatra One", Helvetica;
-}
-.msg h2 {
-    color: #124559;
-    font-family: "Yatra One", Helvetica;
-}
-.msg p {
-    color: #124559;
 }
 .logo {
     width: 80px;
