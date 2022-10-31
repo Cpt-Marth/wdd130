@@ -7,12 +7,20 @@ nav a {
     text-align: center;
     color: #124559;
     text-decoration: none;
+    padding: 35px;
+}
+nav a:hover {
+    background-color: #305463;
+    color: #F55536;
 }
 #hero-msg h1 {
     text-align: center;
 }
 #hero-msg h4 {
     text-align: center;
+}
+#logo_link {
+    padding-top: 5px;
 }
 .button-box {
     text-align: center;
@@ -34,21 +42,19 @@ body {
 header {
     background-color: #F55536;
 }
-nav a:hover {
-    background-color: #305463;
-    color: #F55536;
-}
 .book {
     background-color: #BDB4BF;
     color: #124559;
     text-decoration: none;
     font-size: 18px;
+    padding: 15px 30px;
 }
 .join {
     background-color: #F2C14E;
     color: #124559;
     text-decoration: none;
     font-size: 18px;
+    padding: 15px 30px;
 }
 .book:hover {
     background-color: #124559;
@@ -61,6 +67,7 @@ nav a:hover {
 .msg {
     background-color: #F2C14E;
     font-size: 1.5em;
+    padding: 35px;
 }
 .msg h2 {
     color: #124559;
@@ -69,10 +76,12 @@ nav a:hover {
 .msg p {
     color: #124559;
     font-size: .8em;
+    padding-bottom: 15px;
 }
 footer {
     background-color: #F55536;
     color: #124559;
+    padding: 25px 50px;
 }
 footer a {
     color: #124559;
@@ -87,6 +96,9 @@ footer p {
 }
 footer p a:hover {
     text-decoration: none;
+}
+footer .social img {
+    padding-top: 15px;
 }
 .home-title {
     color: #124559;
@@ -107,4 +119,5 @@ h4 {
 }
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
