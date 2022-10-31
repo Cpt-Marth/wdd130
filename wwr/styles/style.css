@@ -58,10 +58,14 @@ header {
     margin-top: 50px;
     border-radius: 5px;
 }
-.book:hover, .join:hover {
+.book:hover {
     background-color: #124559;
     color: #F55536;
 }    
+.join:hover {
+    background-color: #124559;
+    color: #F55536;
+}
 .msg {
     background-color: #F2C14E;
     font-size: 1.5em;
