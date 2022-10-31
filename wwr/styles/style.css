@@ -28,6 +28,8 @@ body {
     background-color: #BDB4BF;
     font-family: "Signika", sans-serif;
     font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color: #F55536;
@@ -94,6 +96,7 @@ footer p a:hover {
 h2 {
     color: #124559;
     font-family: "Yatra One", Helvetica;
+    margin: 0;
 }
 h4 {
     color: #124559;
