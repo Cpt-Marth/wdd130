@@ -139,6 +139,6 @@ h4 {
     width: 80px;
     padding-top: 10px;
 }
-.card-image {
+.card-image, .mountains {
     border: 10px solid #124559;
 }
