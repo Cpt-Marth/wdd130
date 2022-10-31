@@ -21,7 +21,7 @@ main section {
 }
 #background {
     height: 725px;
-    background-color: #F2C14E;
+    background-color: #BDB4BF;
 }
 body {
     background-color: #F2C14E;
@@ -68,6 +68,9 @@ footer a:hover {
 }
 footer p {
     font-size: 1.2em;
+}
+footer p a:hover {
+    text-decoration: underline;
 }
 .home-title {
     color: #124559;
