@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&family=Yatra+One&display=swap');
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -25,6 +26,7 @@ main section {
 }
 body {
     background-color: #BDB4BF;
+    font-family: "Signika", sans-serif;
 }
 header {
     background-color: #F55536;
@@ -74,15 +76,19 @@ footer p a:hover {
 }
 .home-title {
     color: #124559;
+    font-family: "Yatra One", Helvetica;
 }
 h2 {
     color: #124559;
+    font-family: "Yatra One", Helvetica;
 }
 h4 {
     color: #124559;
+    font-family: "Yatra One", Helvetica;
 }
 .msg h2 {
     color: #124559;
+    font-family: "Yatra One", Helvetica;
 }
 .msg p {
     color: #124559;
