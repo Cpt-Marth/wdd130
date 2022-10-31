@@ -19,4 +19,32 @@ main section {
 }
 #background {
     height: 725px;
+    background-color: #F2C14E;
+}
+body {
+    background-color: #F2C14E;
+}
+header {
+    background-color: #F55536;
+}
+nav a:hover {
+    background-color: #124559;
+}
+.book {
+    background-color: #F2C14E;
+}
+.join {
+    background-color: #F2C14E;
+}
+.book:hover {
+    background-color: #124559;
+}
+.join:hover {
+    background-color: #124559;
+}
+.msg {
+    background-color: #F2C14E;
+}
+footer {
+    background-color: #F55536;
 }
