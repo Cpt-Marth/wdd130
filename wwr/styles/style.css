@@ -35,7 +35,7 @@ nav a:hover {
 }
 #hero-box {
     border: 5px solid #124559;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
 }
 body {
     background-color: #BDB4BF;
@@ -80,6 +80,7 @@ main section img {
     background-color: #F2C14E;
     font-size: 1.5em;
     padding: 35px;
+    margin-top: 200px;
 }
 .msg h2 {
     color: #124559;
