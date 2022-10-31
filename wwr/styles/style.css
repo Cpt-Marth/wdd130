@@ -56,7 +56,7 @@ footer {
     color: #124559;
 }
 footer a {
-    color: #124559;
+    color: #F55536;
 }
 footer a:hover {
     background-color: #124559;
@@ -73,4 +73,10 @@ h4 {
 }
 .msg p {
     color: #124559;
+}
+.logo {
+    width: 80px;
+}
+.icon {
+    width: 80px;
 }
